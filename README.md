@@ -6,7 +6,7 @@ Adapt MJAI events from 3-player games to 4-player games
 
 This project provides an adapter to patch MJAI events from sanma (three-player mahjong), enabling four-player mahjong AI models to correctly read the input and return reactions recognizable by sanma frontends.
 
-# Why Adapt?
+## Why Adapt?
 
 In existing open-source projects and publicly available datasets, training a four-player mahjong model is significantly easier than training a sanma model.
 
